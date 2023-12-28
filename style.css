@@ -47,7 +47,7 @@
   .banner {
     width: 100%;
     height: 250px;
-    background-image: url("https://cdna.artstation.com/p/users/covers/001/871/220/small/4f679f79dc2bc97c563b7250e6ff4e05.jpg?1584991037");
+    background-image: linear-gradient(rgb(255, 255, 255)rgb(0, 0, 0), 255) 90%;
     background-size: cover;
     position: relative;
   }
